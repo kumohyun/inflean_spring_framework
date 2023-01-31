@@ -37,6 +37,7 @@
 </head>
 <body>
 <h1>게시판 상세</h1>
+<h1>테스트를 위한 수정</h1>
 <table class="table table-striped">
 	<tr>
 		<td>id</td>
